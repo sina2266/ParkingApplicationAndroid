@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Parking App</string>
+    <string name="gps_disable">GPS غیر فعال</string>
+    <string name="gps_disable_go_to_settings">ماژول GPS فعال نیست برای فعال سازی وارد تنظیمات شوید.</string>
+    <string name="settings">تنظیمات</string>
+
+    <string name="is_for_disabled">پارکینگ معلولان</string>
+    <string name="is_for_disabled_description">آیا مکان ثبت شده برای معلولان میباشد؟</string>
+    <string name="yes">بلی</string>
+    <string name="no">خیر</string>
+
+    <string name="find">یافتن پارکینگ</string>
+    <string name="add">اضافه کردن پارکینگ</string>
+    <string name="direction">نمایش مسیر</string>
+    <string name="username">نام کاربری</string>
+    <string name="login">ورود</string>
+</resources>
